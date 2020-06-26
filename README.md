@@ -1,2 +1,1 @@
-# Test
-Github First Use Testing
+git config --list
