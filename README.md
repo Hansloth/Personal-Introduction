@@ -1,1 +1,1 @@
-git config --list
+Test
