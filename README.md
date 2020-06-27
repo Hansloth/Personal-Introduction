@@ -6,4 +6,4 @@
 ----
 ## The contents of my Github page
 
->On my Github page, there are some of my projects and side projects. If you got any Questions feel free to contact me. This is my email hansyu888@gmail.com
+>On my Github page, there are some of my projects and side projects. If you have any questions about my work, feel free to contact me. This is my email hansyu888@gmail.com
