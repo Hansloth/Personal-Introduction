@@ -2,7 +2,7 @@
 ----
 ## Who is Hans?
 
-> I am currently an Electrical Engineering student at YZU(Yuan Ze University). 
+> I am currently an Computer Science Engineering student at OSU(Ohio State University). 
 ----
 ## The contents of my Github page
 
